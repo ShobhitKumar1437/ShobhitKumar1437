@@ -76,6 +76,8 @@
 ---
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-XX-blue)
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=yourusername.ShobhitKumar1437)
+
 
 ---
 
