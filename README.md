@@ -39,6 +39,20 @@
 
 ---
 
+### 📫 Contact Me:
+- [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/shobhit-kumar1437/))
+- [Email](mailto:shobhitkumar1437@example.com)
+
+---
+
+### 🖥️ Coding Platforms:
+- [LeetCode](https://leetcode.com/yourusername)
+- [CodeChef](https://www.codechef.com/users/yourusername)
+- [HackerRank](https://www.hackerrank.com/yourusername)
+
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/ShobhitKumar1437?label=Follow&style=social" alt="GitHub followers" />
 </p>
