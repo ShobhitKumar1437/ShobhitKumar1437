@@ -40,7 +40,7 @@
 ---
 
 ### 📫 Contact Me:
-- [LinkedIn](https://www.linkedin.com/in/shobhit-kumar437)
+- [LinkedIn](https://www.linkedin.com/in/shobhit-kumar437/)
 - [Email](mailto:shobhitkumar1437@example.com)
 
 ---
