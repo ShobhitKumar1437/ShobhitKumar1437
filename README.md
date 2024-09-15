@@ -38,6 +38,14 @@
 
 ---
 
+### 🧰 Tools:
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+---
+
 ### 📊 GitHub Stats:
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ShobhitKumar1437&show_icons=true&theme=dark&count_private=true)
