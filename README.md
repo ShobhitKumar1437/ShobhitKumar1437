@@ -51,15 +51,17 @@
 
 ---
 
-### 📫 Contact Me:
-- [LinkedIn](https://www.linkedin.com/in/shobhit-kumar1437/)
-- [Email](mailto:shobhitkumar1437@example.com)
+### ✨ Contact Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shobhit-kumar1437/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shobhitkumar1437@gmail.com)
 
 ---
 
 ### 🖥️ Coding Platforms:
-- [LeetCode](https://leetcode.com/shobhitkumar7/)
-- [HackerRank](https://www.hackerrank.com/shobhitkumar1437)
+
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shobhitkumar7/)
+- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/shobhitkumar1437)
 
 
 ---
