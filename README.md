@@ -26,6 +26,14 @@
 
 ---
 
+### 👨‍💼 Work Experience:
+- **Web Development Intern** at Unified Mentor Pvt Ltd (September 2024 - present)
+   - Developed a responsive website using HTML, CSS, and JavaScript.
+   - Integrated Firebase for authentication and real-time data storage.
+   - Worked with a team to improve overall website performance.
+
+---
+
 ### 📊 GitHub Stats:
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ShobhitKumar1437&show_icons=true&theme=dark&count_private=true)
