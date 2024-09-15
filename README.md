@@ -1,5 +1,9 @@
 <h1 align="center">Hi there! 👋 I am shobhit kumar </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=435&lines=Computer+Science+Enthusiast;Blockchain+%26+IoT+Specialist;Full-Stack+Web+Developer;Always+Learning+%26+Growing!">
+</p>
+
 ### 👨‍💻 About Me:
 - 🏫 Student of B.Tech CSE, Specialization in IoT and Blockchain.
 - 💻 Passionate about coding, problem-solving, and web development.
