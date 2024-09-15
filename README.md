@@ -75,6 +75,11 @@
 
 ---
 
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/ShobhitKumar1437?label=Follow&style=social" alt="GitHub followers" />
 </p>
