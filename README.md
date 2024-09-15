@@ -46,7 +46,7 @@
 ---
 
 ### 🖥️ Coding Platforms:
-- [LeetCode](https://leetcode.com/yourusername)
+- [LeetCode](https://leetcode.com/shobhitkumar7/)
 - [CodeChef](https://www.codechef.com/users/yourusername)
 - [HackerRank](https://www.hackerrank.com/yourusername)
 
